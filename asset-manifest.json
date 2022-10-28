@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/teambo/static/css/main.355421dc.css",
+    "main.js": "/teambo/static/js/main.f8715e38.js",
+    "static/js/787.a5a00b74.chunk.js": "/teambo/static/js/787.a5a00b74.chunk.js",
+    "static/media/people.jpg": "/teambo/static/media/people.f8be22718eb06750d48c.jpg",
+    "static/media/menus.png": "/teambo/static/media/menus.baa980cf1d8259a3a9a4.png",
+    "static/media/letter-t.png": "/teambo/static/media/letter-t.5e51007ae2afc5f51424.png",
+    "static/media/logo.svg": "/teambo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/teambo/index.html",
+    "main.355421dc.css.map": "/teambo/static/css/main.355421dc.css.map",
+    "main.f8715e38.js.map": "/teambo/static/js/main.f8715e38.js.map",
+    "787.a5a00b74.chunk.js.map": "/teambo/static/js/787.a5a00b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.355421dc.css",
+    "static/js/main.f8715e38.js"
+  ]
+}
